@@ -8,7 +8,6 @@ En muchas clínicas los pacientes no pueden calcular fácilmente el costo total 
 
 Esta solución está enfocada al sector salud, especialmente clínicas.
 
----
 
 ## Preguntas
 
