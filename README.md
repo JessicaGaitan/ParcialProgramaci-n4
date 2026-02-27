@@ -1,4 +1,4 @@
-# ParcialProgramaci-n4  JESIICA ALEXANDRA GAITAN AGUILA SMSS042524
+# ParcialProgramaci-n4  JESSICA ALEXANDRA GAITAN AGUILA SMSS042524
 
 # Calculador de Consulta Médica
 
